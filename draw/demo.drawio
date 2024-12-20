@@ -1,0 +1,197 @@
+<mxfile host="65bd71144e">
+    <diagram id="TOWjJS8hTvwT4ymddpuu" name="Page-1">
+        <mxGraphModel dx="1978" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <object label="" name="SequenceRefine" id="186">
+                    <mxCell style="group" vertex="1" connectable="0" parent="1">
+                        <mxGeometry x="40" y="40" width="1520.5" height="840" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="SequencePannel" id="124">
+                    <mxCell style="group" vertex="1" connectable="0" parent="186">
+                        <mxGeometry width="720" height="760" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="86" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="124">
+                    <mxGeometry width="720" height="760" as="geometry"/>
+                </mxCell>
+                <object label="" name="InteractiveSequence" id="123">
+                    <mxCell style="group" vertex="1" connectable="0" parent="124">
+                        <mxGeometry x="210" y="77.5" width="300" height="605" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="1. Les chiffres de 1 à&amp;nbsp; 10" name="Step" id="108">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;" vertex="1" parent="123">
+                        <mxGeometry width="300" height="75" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="ChevronDown" id="111">
+                    <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;size=1;fillColor=#000000;" vertex="1" parent="123">
+                        <mxGeometry x="75" y="94" width="150" height="20" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="2. Addition de nombre simple" name="Step" id="112">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=none;fillColor=#4299e1;fontColor=#FFFFFF;" vertex="1" parent="123">
+                        <mxGeometry y="133" width="300" height="75" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="ChevronDown" id="113">
+                    <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;size=1;fillColor=#000000;" vertex="1" parent="123">
+                        <mxGeometry x="75" y="359" width="150" height="20" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="4.. Multiplication de base" name="Step" id="114">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#f56565;" vertex="1" parent="123">
+                        <mxGeometry y="398" width="300" height="75" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="ChevronDown" id="115">
+                    <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;size=1;fillColor=#000000;" vertex="1" parent="123">
+                        <mxGeometry x="75" y="491" width="150" height="20" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="5. Division" name="Step" id="116">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBorderColor=none;fontColor=#FFFFFF;fillColor=#48bb78;" vertex="1" parent="123">
+                        <mxGeometry y="530" width="300" height="75" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="ChevronDown" id="119">
+                    <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;size=1;fillColor=#000000;" vertex="1" parent="123">
+                        <mxGeometry x="75" y="226" width="150" height="20" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="3. Soustraction" name="Step" id="120">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#4299E1;" vertex="1" parent="123">
+                        <mxGeometry y="265" width="300" height="75" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="OptionPannel" id="184">
+                    <mxCell style="group" vertex="1" connectable="0" parent="186">
+                        <mxGeometry x="800" width="720.5" height="760" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="Filter" id="168">
+                    <mxCell style="group" vertex="1" connectable="0" parent="184">
+                        <mxGeometry width="720" height="136" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="87" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="168">
+                    <mxGeometry width="720" height="136" as="geometry"/>
+                </mxCell>
+                <object label="" name="OptionFilters" id="144">
+                    <mxCell style="group" vertex="1" connectable="0" parent="168">
+                        <mxGeometry x="20.048094716167043" y="16.100087916986475" width="679.9038105676658" height="103.79982416602704" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte" name="OptionFilter" id="137">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;rotation=330;" vertex="1" parent="144">
+                        <mxGeometry x="2.4519052838328435" y="29.96442821204578" width="150" height="43.87096774193548" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Appropriation" name="OptionFilter" id="139">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#4299e1;strokeColor=#9673a6;fontColor=#FFFFFF;rotation=330;" vertex="1" parent="144">
+                        <mxGeometry x="133.45190528383284" y="29.96442821204578" width="150" height="43.87096774193548" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Entrainement" name="OptionFilter" id="140">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ed8936;strokeColor=#9673a6;fontColor=#FFFFFF;rotation=330;" vertex="1" parent="144">
+                        <mxGeometry x="265.45190528383284" y="29.96442821204578" width="150" height="43.87096774193548" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Synthèse" name="OptionFilter" id="141">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f56565;strokeColor=#9673a6;fontColor=#FFFFFF;rotation=330;" vertex="1" parent="144">
+                        <mxGeometry x="396.45190528383284" y="29.96442821204578" width="150" height="43.87096774193548" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Réinvestissement" name="OptionFilter" id="142">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#48bb78;strokeColor=#9673a6;fontColor=#FFFFFF;rotation=330;" vertex="1" parent="144">
+                        <mxGeometry x="527.4519052838328" y="29.96442821204578" width="150" height="43.87096774193548" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="UpdateInput" id="169">
+                    <mxCell style="group" vertex="1" connectable="0" parent="184">
+                        <mxGeometry y="624" width="720.5" height="136" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="170" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="169">
+                    <mxGeometry x="0.5" width="720" height="136" as="geometry"/>
+                </mxCell>
+                <object label="" name="SequenceEditInput" id="180">
+                    <mxCell style="group;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" connectable="0" parent="169">
+                        <mxGeometry x="20.5" y="28" width="680" height="80" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Décrivez de nouveaux items" name="TextInput" id="181">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=left;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="180">
+                        <mxGeometry y="10" width="580" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="+" name="FileInput" id="182">
+                    <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=36;fontStyle=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="180">
+                        <mxGeometry x="600" y="10" width="60" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="" name="Options" id="179">
+                    <mxCell style="group" vertex="1" connectable="0" parent="184">
+                        <mxGeometry y="160" width="720" height="440" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="160" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="179">
+                    <mxGeometry width="720" height="440" as="geometry"/>
+                </mxCell>
+                <object label="" id="178">
+                    <mxCell style="group" vertex="1" connectable="0" parent="179">
+                        <mxGeometry x="48.5" y="22.47826086956522" width="623" height="395.04347826086956" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte 1" name="StepOption" id="145">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;flipV=0;" vertex="1" parent="178">
+                        <mxGeometry width="300" height="71.73913043478261" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte 2" name="StepOption" id="146">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;flipV=0;" vertex="1" parent="178">
+                        <mxGeometry x="323" width="300" height="71.73913043478261" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte 3" name="StepOption" id="154">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;flipV=0;" vertex="1" parent="178">
+                        <mxGeometry y="108.08695652173913" width="300" height="71.73913043478261" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte 4" name="StepOption" id="155">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;flipV=0;" vertex="1" parent="178">
+                        <mxGeometry x="323" y="108.08695652173913" width="300" height="71.73913043478261" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte 5" name="StepOption" id="156">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;flipV=0;" vertex="1" parent="178">
+                        <mxGeometry y="215.2173913043478" width="300" height="71.73913043478261" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte 6" name="StepOption" id="157">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;flipV=0;" vertex="1" parent="178">
+                        <mxGeometry x="323" y="215.2173913043478" width="300" height="71.73913043478261" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte 7" name="StepOption" id="158">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;flipV=0;" vertex="1" parent="178">
+                        <mxGeometry y="323.30434782608694" width="300" height="71.73913043478261" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Découverte 8" name="StepOption" id="159">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#9f7aea;strokeColor=#9673a6;fontColor=#FFFFFF;flipV=0;" vertex="1" parent="178">
+                        <mxGeometry x="323" y="323.30434782608694" width="300" height="71.73913043478261" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="&lt;font color=&quot;#ffffff&quot;&gt;Valider ma Séquence&lt;/font&gt;" name="ValidateButton" id="185">
+                    <mxCell style="rounded=1;html=1;fontSize=24;fillColor=#6600CC;strokeColor=none;fillStyle=solid;whiteSpace=wrap;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" parent="186">
+                        <mxGeometry x="620" y="780" width="280" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

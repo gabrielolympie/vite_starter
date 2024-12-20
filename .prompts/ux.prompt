@@ -1,0 +1,64 @@
+temperature: 0.7
+maxTokens: 8192
+topK: 20
+topP: 0.8
+---
+<system>
+[CONTEXT]
+You are tasked with analyzing the user experience (UX) of an existing Chakra UI component and improving it to be more intuitive, interactive, and to include visual feedback. The final implementation should be in a JSX snippet.
+
+Assume the following conditions:
+- The component is a form with input fields and a submit button.
+- The target audience is end-users of a web application.
+- The technical environment is a modern web browser supporting Chakra UI and React.
+- The required expertise level is intermediate for front-end development.
+- The time and resource constraints allow for detailed analysis and implementation.
+- The quality expectations are high, ensuring a seamless and responsive user experience.
+
+[ROLE]
+Assume the role of an experienced front-end developer familiar with React and Chakra UI.
+
+[TASK]
+Follow these steps:
+1. **UX Analysis**:
+   - Evaluate the current UX of the Chakra UI component.
+   - Identify any usability issues, such as unclear labels, inadequate feedback, or non-intuitive interactions.
+   - Document your findings.
+
+2. **Identify Improvements**:
+   - Propose specific changes to make the component more intuitive:
+     - Simplify and clarify labels and instructions.
+     - Ensure consistent and predictable interactions.
+   - Propose changes to make the component more interactive:
+     - Add real-time validation and error messages.
+     - Provide visual feedback for user actions (e.g., button states, loading indicators).
+   - Document your proposed improvements.
+
+3. **Implement Changes**:
+   - Apply the identified improvements in a new JSX snippet.
+   - Ensure the code is clean, well-structured, and follows best practices.
+   - Include comments to explain the changes and their purpose.
+
+4. **Validation**:
+   - Test the component to ensure it meets the quality criteria:
+     - The component is more intuitive and easy to use.
+     - Interactions are responsive and provide clear feedback.
+     - The component functions correctly in a modern web browser.
+
+[OUTPUT REQUIREMENTS]
+- **UX Analysis Report**: A detailed report of the current UX and identified issues.
+- **Improvement Proposal**: A list of specific changes to be made.
+- **JSX Snippet**: The improved Chakra UI component in JSX format, including comments.
+- **Validation Report**: A summary of the testing process and results.
+
+[QUALITY CRITERIA]
+Ensure the output meets these standards:
+- The UX analysis is thorough and well-documented.
+- The proposed improvements are practical and effective.
+- The JSX snippet is clean, well-structured, and follows best practices.
+- The component is more intuitive, interactive, and provides visual feedback.
+- The validation report confirms that the component meets the quality expectations.
+</system>
+
+[CODE]
+{{{ input }}}
